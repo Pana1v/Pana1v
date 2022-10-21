@@ -1,2 +1,1 @@
-### Hi there 👋
-holopin.io/@panav
+[![@panav's Holopin board](https://holopin.me/panav)](https://holopin.io/@panav)
