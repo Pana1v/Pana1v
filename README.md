@@ -73,7 +73,6 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Autonomous Delivery Drone** | Advanced MPPI Controller-based navigation system with real-time perception. | `ROS 2` `Nav2` `LiDAR` |
-| **Real-Time Semantic Mapping** | High-performance pointcloud pipeline for mobile robot environment understanding. | `C++` `PCL` `Livox` |
 | **GNN Task Allocation** | Graph Neural Networks for optimizing multi-robot coordination and binning. | `PyTorch` `GNN` `Python` |
 
 <br />
