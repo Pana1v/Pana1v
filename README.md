@@ -9,8 +9,8 @@
 
 ---
 
-### 🚀 System Status: *Online*
 *"Building robots that think, see, and navigate autonomously."*
+
 
 </div>
 
