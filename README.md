@@ -1,7 +1,7 @@
 <div align="center">
 
 # P A N A V &nbsp; A R P I T &nbsp; R A A J
-### Robotics Software Engineer | Autonomous Systems Architect
+### Robotics Software
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panavraaj/)
 [![Handbook](https://img.shields.io/badge/Robotics_Handbook-100000?style=for-the-badge&logo=gitbook&logoColor=white)](https://panav.gitbook.io/robotics-handbook)
@@ -66,16 +66,6 @@
   </a>
 </div>
 
-<br />
-
-### 🔭 Selected Works
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Autonomous Delivery Drone** | Navigation system with real-time perception. | `ROS 2` `Nav2` `LiDAR` |
-| **GNN Task Allocation** | Graph Neural Networks for optimizing multi-robot coordination and binning. | `PyTorch` `GNN` `Python` |
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pana1v&theme=midnight-purple&hide_border=true&background=0D1117&ring=58A6FF&fire=FF4B4B&currStreakLabel=58A6FF" alt="streak stats" />
