@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panavraaj/)
 [![Handbook](https://img.shields.io/badge/Robotics_Handbook-100000?style=for-the-badge&logo=gitbook&logoColor=white)](https://panav.gitbook.io/robotics-handbook)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panavar@example.com)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praajarpit@gmail.com)
 
 ---
 
