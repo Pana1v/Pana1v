@@ -21,13 +21,6 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 Engineering Profile</h3>
       <br/>
-      <ul>
-        <li><strong>Current Role:</strong> Robotics Engineer @ 10xConstruction.ai</li>
-        <li><strong>Specialization:</strong> ROS 2 (Humble), Nav2, & SLAM</li>
-        <li><strong>Achievement:</strong> 🏆 Inter IIT Tech Gold Medalist</li>
-        <li><strong>Focus:</strong> GNNs for Combinatorial Optimization & Drone Delivery</li>
-        <li><strong>Philosophy:</strong> Open Source Advocate & Technical Writer</li>
-      </ul>
       <br/>
       <a href="https://panav.gitbook.io/robotics-handbook">
         <img src="https://img.shields.io/badge/READ_MY_ROBOTICS_HANDBOOK-FF4B4B?style=style=flat&logo=gitbook&logoColor=white" alt="Handbook">
