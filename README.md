@@ -23,18 +23,15 @@
 ---
 
 ## About
-I build autonomous navigation stacks in ROS 2 (Nav2, localization, safety behaviors) and care about clean systems engineering.
+I build autonomous stacks.
 
 Current / recent:
-- Robotics Software Apprentice @ 10xConstruction.ai (Bangalore) — motion models, collision monitoring, BT-driven autonomy.  
+- Robotics Software Engineer @ Stealth Robotics Startup
+- Robotics Software Apprentice @ 10xConstruction.ai (Bangalore).  
 - B.Tech (EEE) @ IIT Patna (2021–2025).
+- Mobile Robotics Intern @ Addverb (Noida)
 
 ---
-
-## Highlights
-- Nav2 MPPI: custom swerve-drive motion model + tight-space control.
-- Safety: collision monitoring improvements with lower latency and context-aware behaviors.
-- Localization: multimodal EKF pipeline + high-frequency fusion experiments.
 
 ---
 
