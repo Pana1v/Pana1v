@@ -2,6 +2,10 @@
   <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ad54bff8-3ae6-46bd-af4b-ddf5106b579b" alt="Panav" width="20%" />
+</div>
+
 <p align="center">
   <a href="https://github.com/Pana1v"><img src="https://img.shields.io/badge/GitHub-Pana1v-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/panavraaj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
