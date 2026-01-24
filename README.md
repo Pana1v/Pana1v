@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ad54bff8-3ae6-46bd-af4b-ddf5106b579b" alt="Panav" width="20%" />
+  <img src="https://github.com/user-attachments/assets/b64a5d96-31ae-4f6a-a8f0-daf78026c017" alt="Panav" width="20%" />
 </div>
 
 <p align="center">
