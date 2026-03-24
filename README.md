@@ -18,8 +18,8 @@ I design and build perception and navigation stacks for mobile robots, from mult
 | When | Role | Where |
 |---|---|---|
 | Now | Robotics Software Engineer Level II | Eternal.ag |
-| 2025 | Robotics Software Apprentice | Origin Remote (Bangalore) |
-| 2024 | Mobile Robotics Intern | Addverb (Noida) |
+| 2025 | Robotics Software Apprentice | Origin |
+| 2024 | Mobile Robotics Intern | Addverb |
 | 2021-2025 | B.Tech (EEE) | IIT Patna |
 
 ---
