@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=Panav%20Arpit%20Raaj&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=PERCEPTION%20%C2%B7%20SLAM%20%C2%B7%20NAVIGATION%20%C2%B7%20ROBOT%20LEARNING&descSize=15&descAlign=50&descAlignY=62" width="100%" alt="Panav Arpit Raaj"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=000000&text=Panav%20Arpit%20Raaj&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&desc=ROBOTICS%20ENGINEER&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Panav Arpit Raaj"/>
+  <br/>
+  <a href="https://panav.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=21&pause=1200&color=808080&center=true&vCenter=true&width=780&lines=Perception%2C+SLAM+and+navigation+for+mobile+robots;Vision-language-action+policies+on+real+manipulators;Autonomy+stacks+built+from+zero+to+one" alt="Perception, SLAM and navigation for mobile robots"/></a>
 </div>
 
 <p align="center">
@@ -54,15 +56,35 @@ I build software that lets mobile robots know where they are and decide what to 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="250" align="center"><img src="https://img.shields.io/badge/LEAP-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="LEAP"/></td>
+<td>
+
 **LEAP** &nbsp;·&nbsp; Pick-and-place sequencing as asymmetric TSP with a cycle-aware heterogeneous GNN. CP-SAT Hamiltonian circuit formulation replacing MTZ gave **5–7×**; imitation-learned arc pruning to O(Nk) gave a further **17.5× at N=200**, 0.06% optimality gap. *BRAIn Lab, IIT Patna. Manuscript in prep.*
+
 <sub>`CP-SAT` `GNN` `Combinatorial Optimization`</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://img.shields.io/badge/PERCEPTION_%26_NAVIGATION-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Perception and Navigation"/>
 
+<table>
+<tr>
+<td width="250" align="center"><img src="https://img.shields.io/badge/POLKA-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="POLKA"/></td>
+<td>
+
 **[POLKA](https://github.com/Pana1v/polka)** &nbsp;·&nbsp; Multi-LiDAR fusion for ROS 2. Merges heterogeneous PointCloud2 and LaserScan sources in one composable node, replacing the usual relay/filter/merge chain. SE(3) IMU deskewing with per-source overrides, footprint exclusion, voxel downsampling, optional CUDA. Humble and Jazzy.
+
 <sub>`C++17` `CUDA` `PCL` `Eigen3`</sub>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -77,11 +99,20 @@ I build software that lets mobile robots know where they are and decide what to 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="250" align="center"><img src="https://img.shields.io/badge/AT_ETERNAL-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="At Eternal"/></td>
+<td>
+
 **At Eternal** &nbsp;·&nbsp; Architecting a stack from 0 to 1 for challenging use cases in AgTech.
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
-<td width="250"><img src="https://panav.netlify.app/projects/lichtblick.png" width="240" alt="Lichtblick"/></td>
+<td width="250" align="center"><img src="https://img.shields.io/badge/AT_ORIGIN-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="At Origin"/></td>
 <td>
 
 **At Origin** &nbsp;·&nbsp; Swerve motion model for Nav2 MPPI. Lower-latency collision monitor via composable nodes. Kidnapped-robot recovery using genetic algorithms plus ambiguity detection. Lichtblick, a TypeScript/ROS 2 viz interface that cut peak CPU **120% → 26%** versus Foxglove.
@@ -105,9 +136,27 @@ I build software that lets mobile robots know where they are and decide what to 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="250" align="center"><img src="https://img.shields.io/badge/ABU_ROBOCON-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="ABU Robocon"/></td>
+<td>
+
 **ABU Robocon 2023–24** &nbsp;·&nbsp; Captain, 60+ member team. National Finals, one of two IITs to qualify, highest score among IIT teams in 2024. Custom PCBs for motor control and power, heterogeneous controllers (Cube Orange, Pi, ESP32), multi-bot coordination over ROS.
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="250" align="center"><img src="https://img.shields.io/badge/IRoC--U_2024-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="IRoC-U 2024"/></td>
+<td>
+
 **ISRO Robotics Challenge (IRoC-U) 2024** &nbsp;·&nbsp; Founded and led IIT Patna's 35-student rover team, building a scratch-built lunar rover prototype. Owned mechanical, electronics, and software architecture end to end.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -179,22 +228,37 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pana1v&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Pana1v&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pana1v&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pana1v&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=00000000&text_color=FFFFFF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pana1v&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=00000000&text_color=000000" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pana1v&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=00000000&text_color=000000" alt="Top languages" />
 </picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pana1v&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-  <img height="150" src="https://streak-stats.demolab.com?user=Pana1v&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" alt="Contribution streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Pana1v&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" alt="Contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pana1v&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&area=true&area_color=FFFFFF" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pana1v&hide_border=true&bg_color=00000000&color=000000&line=000000&point=000000&title_color=000000&area=true&area_color=000000" alt="Contribution activity" />
 </picture>
 
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pana1v&style=for-the-badge&label=PROFILE+VIEWS&color=000000" alt="Profile views"/>
+  <a href="https://github.com/Pana1v?tab=followers"><img src="https://img.shields.io/github/followers/Pana1v?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000" alt="Followers"/></a>
+  <a href="https://github.com/Pana1v/polka"><img src="https://img.shields.io/github/stars/Pana1v/polka?style=for-the-badge&label=POLKA%20STARS&labelColor=000000&color=000000" alt="POLKA stars"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BASED_IN-BANGALORE,_IN-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="Based in Bangalore"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION_&_CONVERSATION-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="Open to collaboration"/>
+  <img src="https://img.shields.io/badge/ASK_ME_ABOUT-NAV2_·_SLAM_·_VLA-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="Ask me about"/>
+</p>
 
 <p align="center"><sub>Open to conversations about mobile robot autonomy, VLA policies, and point clouds that refuse to align.</sub></p>
