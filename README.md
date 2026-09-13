@@ -19,14 +19,14 @@ I build software that lets mobile robots know where they are and decide what to 
 <tr><td><b>Now</b></td><td>Robotics Engineer, Level II</td><td><a href="https://eternal.ag">Eternal.ag</a>, Bangalore</td></tr>
 <tr><td><b>2025–26</b></td><td>Robotics Software Apprentice</td><td>Origin (ex 10xConstruction.ai)</td></tr>
 <tr><td><b>2024</b></td><td>Mobile Robotics Intern</td><td>Addverb Technologies</td></tr>
-<tr><td><b>2021–25</b></td><td>B.Tech, Electrical & Electronics</td><td>IIT Patna</td></tr>
+<tr><td><b>2021–25</b></td><td>B.Tech, Electrical &amp; Electronics</td><td>IIT Patna</td></tr>
 </table>
 
 <br/>
 
 ## Selected work
 
-<h3><sub>◼</sub> Robot Learning</h3>
+<img src="./assets/h-robot-learning.svg" height="22" alt="Robot Learning"/>
 
 **[openpi-DoRA](https://github.com/Pana1v)** &nbsp;·&nbsp; Weight-decomposed fine-tuning for π0.5. JAX/Flax overlay injecting DoRA into Physical Intelligence's policy, reimplemented for Gemma's einsum and FFN layers. Controlled DoRA-vs-LoRA sweeps across all four LIBERO suites: **92.0% vs 91.4%** average success at rank 8, winning 3 of 4.
 <sub>`JAX` `Flax` `OpenPI` `LIBERO` `DoRA/LoRA`</sub>
@@ -37,7 +37,7 @@ I build software that lets mobile robots know where they are and decide what to 
 **LEAP** &nbsp;·&nbsp; Pick-and-place sequencing as asymmetric TSP with a cycle-aware heterogeneous GNN. CP-SAT Hamiltonian circuit formulation replacing MTZ gave **5–7×**; imitation-learned arc pruning to O(Nk) gave a further **17.5× at N=200**, 0.06% optimality gap. *BRAIn Lab, IIT Patna. Manuscript in prep.*
 <sub>`CP-SAT` `GNN` `Combinatorial Optimization`</sub>
 
-<h3><sub>◼</sub> Perception & Navigation</h3>
+<img src="./assets/h-perception.svg" height="22" alt="Perception and Navigation"/>
 
 **[POLKA](https://github.com/Pana1v/polka)** &nbsp;·&nbsp; Multi-LiDAR fusion for ROS 2. Merges heterogeneous PointCloud2 and LaserScan sources in one composable node, replacing the usual relay/filter/merge chain. SE(3) IMU deskewing with per-source overrides, footprint exclusion, voxel downsampling, optional CUDA. Humble and Jazzy.
 <sub>`C++17` `CUDA` `PCL` `Eigen3`</sub>
@@ -49,7 +49,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 **At Origin** &nbsp;·&nbsp; Swerve motion model for Nav2 MPPI. Lower-latency collision monitor via composable nodes. Kidnapped-robot recovery using genetic algorithms plus ambiguity detection. Lichtblick, a TypeScript/ROS 2 viz interface that cut peak CPU **120% → 26%** versus Foxglove.
 
-<h3><sub>◼</sub> Competition</h3>
+<img src="./assets/h-competition.svg" height="22" alt="Competition"/>
 
 **[ICRA BARN Challenge 2026](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge26.html)** &nbsp;·&nbsp; Breadcrumb Explorer, built from scratch instead of tuning a baseline. Mapless, no SLAM, no laser odometry. An odom-frame breadcrumb memory marks trajectories *tasty* or *stale* so path selection improves across trials despite 270° coverage, wheel slip, and IMU drift. **0.3682/0.5 on first submission, highest by an Indian team since 2022.** 76% zero-shot across 300 Gazebo courses.
 
