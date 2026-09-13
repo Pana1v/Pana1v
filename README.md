@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=000000&text=Panav%20Arpit%20Raaj&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&desc=ROBOTICS%20ENGINEER&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Panav Arpit Raaj"/>
-  <br/>
-  <a href="https://panav.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=21&pause=1200&color=808080&center=true&vCenter=true&width=780&lines=Perception%2C+SLAM+and+navigation+for+mobile+robots;Vision-language-action+policies+on+real+manipulators;Autonomy+stacks+built+from+zero+to+one" alt="Perception, SLAM and navigation for mobile robots"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=Panav%20Arpit%20Raaj&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=PERCEPTION%20%C2%B7%20SLAM%20%C2%B7%20NAVIGATION%20%C2%B7%20ROBOT%20LEARNING&descSize=15&descAlign=50&descAlignY=62" width="100%" alt="Panav Arpit Raaj"/>
 </div>
+
+<p align="center">
+  <a href="mailto:panav.raaj@hotmail.com">panav.raaj@hotmail.com</a> &nbsp;·&nbsp; <a href="mailto:praajarpit@gmail.com">praajarpit@gmail.com</a>
+</p>
 
 <p align="center">
   <a href="https://panav.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="PORTFOLIO"/></a>
   <a href="https://panav.gitbook.io/robotics-handbook"><img src="https://img.shields.io/badge/HANDBOOK-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="HANDBOOK"/></a>
   <a href="https://www.linkedin.com/in/panavraaj/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="LINKEDIN"/></a>
-  <a href="mailto:praajarpit@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="EMAIL"/></a>
+  <a href="mailto:panav.raaj@hotmail.com"><img src="https://img.shields.io/badge/HOTMAIL-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="panav.raaj@hotmail.com"/></a>
+  <a href="mailto:praajarpit@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=flat-square&labelColor=000000&color=000000" alt="praajarpit@gmail.com"/></a>
 </p>
 
 <br/>
