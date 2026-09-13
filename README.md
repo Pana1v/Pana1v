@@ -30,7 +30,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <table>
 <tr>
-<td width="250"><img src="./assets/openpi-dora.gif" width="240" alt="openpi-DoRA"/></td>
+<td width="250"><img src="https://pana1v.github.io/projects/openpi-dora-motion.gif" width="240" alt="openpi-DoRA"/></td>
 <td>
 
 **[openpi-DoRA](https://github.com/Pana1v)** &nbsp;·&nbsp; Weight-decomposed fine-tuning for π0.5. JAX/Flax overlay injecting DoRA into Physical Intelligence's policy, reimplemented for Gemma's einsum and FFN layers. Controlled DoRA-vs-LoRA sweeps across all four LIBERO suites: **92.0% vs 91.4%** average success at rank 8, winning 3 of 4.
@@ -43,7 +43,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <table>
 <tr>
-<td width="250"><img src="./assets/intrinsic.png" width="240" alt="Intrinsic AI for Industry Challenge"/></td>
+<td width="250"><img src="https://pana1v.github.io/writing/intrinsic-challenge-views.png" width="240" alt="Intrinsic AI for Industry Challenge"/></td>
 <td>
 
 **Intrinsic AI for Industry Challenge** &nbsp;·&nbsp; Solo entry, one week to deadline. Ground-truth policy at **285/300**, OpenCV baseline at 130/300, learned perception with ResNet18 and U-Net conditioned on TCP pose, port identity, board pose. Pushed ACT and SmolVLA under a tight data budget.
@@ -66,7 +66,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <table>
 <tr>
-<td width="250"><img src="./assets/go-slam.png" width="240" alt="GO-SLAM"/></td>
+<td width="250"><img src="https://pana1v.github.io/projects/go-slam.png" width="240" alt="GO-SLAM"/></td>
 <td>
 
 **GO-SLAM** &nbsp;·&nbsp; Full SLAM from scratch: GICP front-end, pose-graph back-end, loop closure. Custom Levenberg–Marquardt solvers for both, no external optimization libraries. Fed by deskewed LiDAR from Polka, benchmarked on KITTI.
@@ -96,7 +96,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <table>
 <tr>
-<td width="250"><img src="./assets/barn.gif" width="240" alt="ICRA BARN Challenge 2026"/></td>
+<td width="250"><img src="https://pana1v.github.io/projects/barn-motion.gif" width="240" alt="ICRA BARN Challenge 2026"/></td>
 <td>
 
 **[ICRA BARN Challenge 2026](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge26.html)** &nbsp;·&nbsp; Breadcrumb Explorer, built from scratch instead of tuning a baseline. Mapless, no SLAM, no laser odometry. An odom-frame breadcrumb memory marks trajectories *tasty* or *stale* so path selection improves across trials despite 270° coverage, wheel slip, and IMU drift. **0.3682/0.5 on first submission, highest by an Indian team since 2022.** 76% zero-shot across 300 Gazebo courses.
