@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Panav Arpit Raaj"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=Panav%20Arpit%20Raaj&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=PERCEPTION%20%C2%B7%20SLAM%20%C2%B7%20NAVIGATION%20%C2%B7%20ROBOT%20LEARNING&descSize=15&descAlign=50&descAlignY=62" width="100%" alt="Panav Arpit Raaj"/>
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 ## Selected work
 
-<img src="./assets/h-robot-learning.svg" height="26" alt="Robot Learning"/>
+<img src="https://img.shields.io/badge/ROBOT_LEARNING-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Robot Learning"/>
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <br/>
 
-<img src="./assets/h-perception.svg" height="26" alt="Perception and Navigation"/>
+<img src="https://img.shields.io/badge/PERCEPTION_%26_NAVIGATION-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Perception and Navigation"/>
 
 **[POLKA](https://github.com/Pana1v/polka)** &nbsp;·&nbsp; Multi-LiDAR fusion for ROS 2. Merges heterogeneous PointCloud2 and LaserScan sources in one composable node, replacing the usual relay/filter/merge chain. SE(3) IMU deskewing with per-source overrides, footprint exclusion, voxel downsampling, optional CUDA. Humble and Jazzy.
 <sub>`C++17` `CUDA` `PCL` `Eigen3`</sub>
@@ -77,11 +77,11 @@ I build software that lets mobile robots know where they are and decide what to 
 </tr>
 </table>
 
-**At Eternal** &nbsp;·&nbsp; GPU-accelerated SLAM and Nav2 stack under **40% CPU on Jetson Orin**, automated per-robot LiDAR↔IMU extrinsic calibration, CI/CD, parameter snapshots inside rosbags.
+**At Eternal** &nbsp;·&nbsp; Architecting a stack from 0 to 1 for challenging use cases in AgTech.
 
 <table>
 <tr>
-<td width="250"><img src="./assets/lichtblick.png" width="240" alt="Lichtblick"/></td>
+<td width="250"><img src="https://panav.netlify.app/projects/lichtblick.png" width="240" alt="Lichtblick"/></td>
 <td>
 
 **At Origin** &nbsp;·&nbsp; Swerve motion model for Nav2 MPPI. Lower-latency collision monitor via composable nodes. Kidnapped-robot recovery using genetic algorithms plus ambiguity detection. Lichtblick, a TypeScript/ROS 2 viz interface that cut peak CPU **120% → 26%** versus Foxglove.
@@ -92,7 +92,7 @@ I build software that lets mobile robots know where they are and decide what to 
 
 <br/>
 
-<img src="./assets/h-competition.svg" height="26" alt="Competition"/>
+<img src="https://img.shields.io/badge/COMPETITION-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Competition"/>
 
 <table>
 <tr>
