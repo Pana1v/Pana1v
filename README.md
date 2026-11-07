@@ -66,7 +66,7 @@ Projects, writing and the full work history live on **[panav.netlify.app](https:
 <td width="250"><img src="https://panav.netlify.app/projects/ego-hamer-compare.jpg" width="240" alt="Egocentric data pipeline"/></td>
 <td>
 
-**Egocentric Data Pipeline** &nbsp;·&nbsp; Turns long first-person videos into structured, annotated sequences for robot learning. HaMeR and WiLoR for hand tracking and MANO pose, FastFoundationStereo for depth at **9× real-time**, automated segmentation and prelabelling for task, subtask, difficulty and venue. Hand tracking at **$0.30 per video hour**, prelabelling cut from **$7.00 to $0.80 per hour**. *Freelance.*
+**Egocentric Data Pipeline** &nbsp;·&nbsp; Turns long first-person videos into structured, annotated sequences for robot learning. HaMeR and WiLoR for hand tracking and MANO pose, FastFoundationStereo for depth at **9× real-time**, automated segmentation and prelabelling for task, subtask, difficulty and venue. Hand tracking at **$0.30 per video hour**, prelabelling cut from **$7.00 to $0.80 per hour**. 
 
 <sub>`HaMeR` `WiLoR` `MANO` `FoundationStereo` `VLMs`</sub>
 
