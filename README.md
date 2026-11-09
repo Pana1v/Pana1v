@@ -91,18 +91,18 @@ Projects, writing and the full work history live on **[panav.netlify.app](https:
 
 <img src="https://img.shields.io/badge/PERCEPTION_%26_NAVIGATION-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Perception and Navigation"/>
 
-<table>
+<!-- <table>
 <tr>
 <td width="250"><img src="https://panav.netlify.app/projects/polka-scan-merge.gif" width="240" alt="POLKA merging LiDAR scans"/></td>
 <td>
 
-**[POLKA](https://github.com/Pana1v/polka)** &nbsp;·&nbsp; Multi-LiDAR fusion for ROS 2. Merges heterogeneous PointCloud2 and LaserScan sources in one composable node, replacing the usual relay/filter/merge chain. SE(3) IMU deskewing with per-source overrides, footprint exclusion, voxel downsampling, optional CUDA. Humble and Jazzy.
+**[POLKA](https://github.com/Pana1v/polka)** &nbsp;·&nbsp; Multi-LiDAR fusion for ROS 2. Merges heterogeneous PointCloud2 and LaserScan sources in one composable node, replacing the usual relay/filter/merge chain. SE(3) IMU deskewing with per-source overrides, footprint exclusion, voxel downsampling, optional CUDA. Humble and Jazzy. -->
 
-<sub>`C++17` `CUDA` `PCL` `Eigen3`</sub>
+<!-- <sub>`C++17` `CUDA` `PCL` `Eigen3`</sub>
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <table>
 <tr>
