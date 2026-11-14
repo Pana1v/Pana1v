@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0a0a0a&text=Panav%20Arpit%20Raaj&fontSize=58&fontColor=ff1f3d&fontAlign=50&fontAlignY=42&desc=PERCEPTION%20%C2%B7%20SLAM%20%C2%B7%20NAVIGATION%20%C2%B7%20ROBOT%20LEARNING&descSize=14&descAlign=50&descAlignY=60&descColor=cccccc" width="100%" alt="Panav Arpit Raaj"/>
-</div>
-
 <p align="center">
   <a href="mailto:praajarpit@gmail.com">praajarpit@gmail.com</a> &nbsp;·&nbsp; <a href="mailto:panav.raaj@hotmail.com">panav.raaj@hotmail.com</a>
 </p>
