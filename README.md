@@ -28,7 +28,6 @@ More: [panav.netlify.app](https://panav.netlify.app).
 - **[GO-SLAM](https://github.com/Pana1v/go-slam)** - SLAM from scratch: GICP front-end, pose-graph back-end, loop closure; benchmarked on KITTI.
 - **Intrinsic AI Challenge** - Ground-truth policy 285/300; ACT and SmolVLA under a tight data budget. [Write-up ↗](https://substack.com/@panav1/p-198501217)
 - **ICRA BARN Challenge 2026** - Breadcrumb Explorer; 0.3682/0.5, highest by an Indian team since 2022.
-- **Egocentric Data Pipeline** - First-person video to robot-learning sequences; HaMeR/WiLoR, FastFoundationStereo depth.
 - **LEAP** - Pick-and-place as asymmetric TSP with a cycle-aware heterogeneous GNN; CP-SAT over MTZ, 5-7x speedup. BRAIn Lab, IIT Patna.
 - **At Eternal** - Pushing performance in navigation, VPR, and simulation for hybrid-drivetrain greenhouse robots.
 - **At Origin** - Pushing performance and edge cases for the navigation stack on construction robots.
