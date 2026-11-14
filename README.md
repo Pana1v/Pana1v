@@ -30,12 +30,12 @@ More: [panav.netlify.app](https://panav.netlify.app).
 - **ICRA BARN Challenge 2026** - Breadcrumb Explorer; 0.3682/0.5, highest by an Indian team since 2022.
 - **Egocentric Data Pipeline** - First-person video to robot-learning sequences; HaMeR/WiLoR, FastFoundationStereo depth.
 - **LEAP** - Pick-and-place as asymmetric TSP with a cycle-aware heterogeneous GNN; CP-SAT over MTZ, 5-7x speedup. BRAIn Lab, IIT Patna.
-- **At Eternal** - GPU-accelerated SLAM/Nav2 on Jetson Orin: 40% CPU, CUDA pointclouds at 40 ms, automated extrinsic calibration.
-- **At Origin** - Swerve motion model for Nav2 MPPI, kidnapped-robot recovery, Lichtblick ROS 2 viz (CPU 120% → 26%).
+- **At Eternal** - Pushing performance in navigation, VPR, and simulation for hybrid-drivetrain greenhouse robots.
+- **At Origin** - Pushing performance and edge cases for the navigation stack on construction robots.
 
 ## Achievements
 
-Gold Medal, Inter IIT Tech Meet (2023) · Highest score by an Indian team, ICRA BARN Challenge since 2022 · Captain, ABU Robocon 2024 · Founder, IIT Patna Rover Team, ISRO Robotics Challenge 2024 · Top 0.5%, JEE Advanced 2021.
+Gold Medal, Inter IIT Tech Meet (2023) · Highest score by an Indian team, ICRA BARN Challenge since 2022 · Captain, ABU Robocon 2024 · Founder, IIT Patna Rover Team, ISRO Robotics Challenge 2024.
 
 ## Writing
 
